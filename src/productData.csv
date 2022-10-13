@@ -1,0 +1,10 @@
+id,name,price,rating,discountPercentage,isAvailable
+1,cake ,15,2.3,10,yes
+2,doughnut,3,5,15,yes
+3,bread,2,4.9,20,no
+4,cake ,15,2.3,10,yes
+5,doughnut,3,5,15,yes
+6,bread,2,4.9,20,no
+7,cake ,15,2.3,10,yes
+8,doughnut,3,5,15,yes
+9,bread,2,4.9,20,no
